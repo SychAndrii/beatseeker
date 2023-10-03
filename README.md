@@ -34,74 +34,91 @@ At the time, my team and I had a good grasp of how React behaved and felt, even 
 
 #### Home Page
 
-![Home Page](image.png)
+![image (6)](https://github.com/SychAndrii/beatseeker/assets/97425977/520e8eed-769e-4cf4-a6ac-749f28cd6c7a)
+
 
 #### Concert Search Page
 
-![Concert Search Page](image-1.png)
+![image-1](https://github.com/SychAndrii/beatseeker/assets/97425977/1873b416-d789-4221-b477-d697be2b8768)
+
 
 #### Concert Page
 
-![Concert Page](image-2.png)
+![image-2](https://github.com/SychAndrii/beatseeker/assets/97425977/19df6d6f-f723-4173-b235-0c141336d860)
+
 
 #### Ticket Purchasing
 
-![Ticket Purchasing](image-3.png)
+![image-3](https://github.com/SychAndrii/beatseeker/assets/97425977/f4e44da0-95e2-44aa-9ed6-412e1be272d5)
+
 
 #### Payment
 
-![Payment](image-4.png)
+![image-4](https://github.com/SychAndrii/beatseeker/assets/97425977/6949339d-bbb2-485c-812a-e816e9335ef4)
+
 
 #### Login
 
-![Login](image-5.png)
+![image-5](https://github.com/SychAndrii/beatseeker/assets/97425977/0683aaf7-36c5-46c2-949b-84faac1f78c3)
+
 
 #### Admin Panel
 
-![Admin Panel](image-6.png)
+![image-6](https://github.com/SychAndrii/beatseeker/assets/97425977/7a216a56-4fe3-483b-ade7-8a7b794a1f78)
 
 #### Concert Creation
 
-![Concert Creation](image-7.png)
+![image-7](https://github.com/SychAndrii/beatseeker/assets/97425977/ab34e7bb-ee64-41c5-b6f7-5cff236da70e)
+
 
 #### User Profile
 
-![User Profile](image-8.png)
+![image-8](https://github.com/SychAndrii/beatseeker/assets/97425977/7eba21fd-0647-4617-9a7b-b5a4d6f3d72e)
+
 
 ### Light Mode
 
 #### Home Page
 
-![Home Page](image-9.png)
+![image-9](https://github.com/SychAndrii/beatseeker/assets/97425977/34a6ed68-47e4-4ed3-ac6e-5c5ccd2c251b)
+
 
 #### Concert Search Page
 
-![Concert Search Page](image-10.png)
+![image-10](https://github.com/SychAndrii/beatseeker/assets/97425977/cd5fd2ac-47d9-44f5-941c-ef78650e6063)
+
 
 #### Concert Page
 
-![Concert Page](image-11.png)
+![image-11](https://github.com/SychAndrii/beatseeker/assets/97425977/416b134d-4b6e-4982-96c5-3e1fdce99f1a)
+
 
 #### Ticket Purchasing
 
-![Ticket Purchasing](image-12.png)
+![image-12](https://github.com/SychAndrii/beatseeker/assets/97425977/0b90d0af-6ed8-4529-b804-2115cdc9210e)
+
 
 #### Payment
 
-![Payment](image-13.png)
+![image-13](https://github.com/SychAndrii/beatseeker/assets/97425977/adcdbdf2-4178-486a-a0c3-83f104522a7e)
+
 
 #### Login
 
-![Login](image-14.png)
+![image-14](https://github.com/SychAndrii/beatseeker/assets/97425977/5c2ea905-0e03-4399-8932-f78c56987bad)
+
 
 #### Admin Panel
 
-![Admin Panel](image-15.png)
+![image-15](https://github.com/SychAndrii/beatseeker/assets/97425977/3eb6f858-21c4-439b-a6c0-c8cf92910c41)
+
 
 #### Concert Creation
 
-![Concert Creation](image-16.png)
+![image-16](https://github.com/SychAndrii/beatseeker/assets/97425977/4fd2ea79-46c9-4f73-b105-8b6a18c4903f)
+
 
 #### User Profile
 
-![User Profile](image-17.png)
+![image-17](https://github.com/SychAndrii/beatseeker/assets/97425977/745c447c-10d5-4440-8ecd-552cc65f1724)
+
